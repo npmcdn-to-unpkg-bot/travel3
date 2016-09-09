@@ -4423,6 +4423,39 @@ hr{
     color: #525354;
     font-size: 2rem;
 }
+.section-5 img{
+    margin: auto;
+}
 .there-there span{
     font-family: lato;
+}
+.section-6{
+    padding-top: 40px;
+    font-family: "Lato-Light";
+    color: #171819;
+    font-size: 1.6rem;
+}
+.section-6 .thumbnail{
+    box-shadow: none;
+}
+.section-6 .thumbnail .caption{
+    font-family: lato;
+    color: #525354;
+}
+.btn-gloss{
+    border-radius: 4px;
+    background-image: -moz-linear-gradient( 90deg, rgb(255,85,102) 0%, rgb(245,108,54) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgb(255,85,102) 0%, rgb(245,108,54) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgb(255,85,102) 0%, rgb(245,108,54) 100%);
+    box-shadow: 0px 30px 30px 0px rgba(0, 0, 0, 0.1);
+}
+.gloss-text{
+    font-size: 22px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+}
+.section-6 h1{
+    font-family: "Lato";
+    color: #525354;
+    font-style: italic;
 }
