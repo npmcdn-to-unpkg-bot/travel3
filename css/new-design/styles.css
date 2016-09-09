@@ -4366,6 +4366,9 @@ hr{
     display: flex;
     align-items: center;
 }
+.pitch-wrap{
+    padding-bottom: 40px;
+}
 .pitch-wrap .section-1{
     height: 80vh;
     background-image:url(../images/pitch/hero/hero_image.jpg);
@@ -4454,8 +4457,10 @@ hr{
     font-family: "Lato";
     color: rgb(255, 255, 255);
 }
-.section-6 h1{
+.section-6 p{
+    padding-top: 20px;
     font-family: "Lato";
     color: #525354;
     font-style: italic;
+    font-size: 1.5rem;
 }
